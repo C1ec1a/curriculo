@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+
+<html lang=”pt-BR”>
+
+<head>
+
+  <meta charset=”UTF-8”>
+
+  <meta http-equiv=”X-UA-Compatible” content=”IE=Edge”>
+
+  <meta name=”viewport” content=”width=device-width, initial-scale=1”>
+
+
+
+  <title>Currículo</title>
+
+  
+
+  
+
+  <link rel=”stylesheet” href=”style.css”>
+
+</head>
+
+
+
+<body>
+
+  
+
+ <header class=”l-header” id=”header”> 
+
+<nav class=”nav bd-container”> 
+
+ <a href=”#” class=”nav__logo”>Clécia </a> <div class=”div nav__menu” id=”nav-menu”> 
+
+   </div> 
+
+  </nav> 
+
+  </header> 
+
+  
+
+ <main class=”l-main bd-container”> 
+
+  <div class=”resume” id=”area-cv”> 
+
+  <div class=”resume__left”>
+
+     
+
+   <section class=”home” id=”home”> 
+
+  <div class=”home__container section bd-grid”> 
+
+  <div class=”home__data bd-grid”> 
+
+ <img src=”fotoeu.png” alt=”Imagem de perfil” class=”home__img”> 
+
+  <h1 class=”home__title”> 
+
+ <h3> Clécia </b> Ellen dos Anjos Lavor </h3>
+
+    <h3 class=”home__profession”> </h3> 
+
+ </h1> </div>
+
+   
+
+  <div class=”home_address bd-grid”> 
+
+  <span class=”home__information”> 
+
+  <img src=”localização.png” width=”20px”>  Cedro, PE 
+
+ </span> 
+
+ <span class=”home__information”> 
+
+ <img src=”gmail.png” width=”20px”>
+
+ clecialavor@gmail.com <br>
+
+ </span> 
+
+ <span class=”home__information”> 
+
+ <img src=”telefone.png” width=”20px”>   +55 (87) 98178-3257
+
+ </span> 
+
+ </div> 
+
+ </div> 
+
+ <i class=’bx bx-moon cchange-theme’ title=”Tema claro/escuro” id=”ttheme-butto”> </i> 
+
+  
+
+  <i class=’bx bx-download generate-pdf’ title=”Baixar Currículo em PDF” id= “resume-button”></i> 
+
+ 
+
+ </section> 
+
+  
+
+ <section class=”social section”> 
+
+ 
+
+ <h2 class=”section-title”>SOCIAL</h2>
+
+  
+
+ <div class=”social__container bd-grid”> 
+
+  
+
+  <a href=https://www.instagram.com/invites/contact/?i=oqeiru83yhmg&utm_content=38uhqkm> 
+
+  <img src=”instagram-logo.png” width=”20px”> @clecia_ellen</a>
+
+  
+
+  <a href=https://www.facebook.com/profile.php?id=100008940737870> 
+
+  <img src=”facebook-logo.png” width=”20px”> Clécia Ellen </a>
+
+  
+
+  <a href=https://twitter.com/CleciaEllen1?t=vJfiHfym8rPvMqT048VWcA&s=09> 
+
+  <img src=”twitter.png” width=”20px”> @CleciaEllen1
+
+  </a>
+
+  
+
+  </section> 
+
+  
+
+ <section class=”profile section” id= “profile”>
+
+   
+
+ <h2 class=”section-title”>Perfil</h2> 
+
+  
+
+ <p class=”profile__description”> 
+
+ Estudante do terceiro ano do ensino médio na Escola Estadual de Educação Profissional Dr. Napoleão Neves da Luz.  <div class=””></div> <div class=””></div> 
+
+ </p> 
+
+ </section> 
+
+ 
+
+  
+
+ <section class=”profile section” id= “profile”>
+
+   
+
+ <h2 class=”section-title”>Desejo em trabalhar na empresa</h2> 
+
+  
+
+ <p class=”profile__description”> 
+
+ Tenho conhecimento que a área da informática é extremamente ampla. Há ótimas opções no mercado e podemos trabalhar o que gostamod. Me identifico bastante com a parte de software e desenvolvimento web, por isso, a empressa teve a minha total atenção. <div class=””></div> <div class=””></div> 
+
+ </p> 
+
+ </section>
+
+ 
+
+  
+
+ <section class=”profile section” id= “profile”>
+
+   
+
+ <h2 class=”section-title”>Participação em projetos</h2> 
+
+  
+
+ <p class=”profile__description”> 
+
+ Na escola, participo de todos os projetos que são realizados. Além de já ter feito cursos, como já foi citado, prático sempre tudo que foi aprendido. <div class=””></div> <div class=””></div> 
+
+ </p> 
+
+ </section>
+
+ 
+
+  <section class=”education section” id= “education”> 
+
+ <h2 class=”section-title”>Pontos Fortes</h2> 
+
+  
+
+ <div class=”education__container bd-grid”> 
+
+ <div class=”education__content”> 
+
+ <div class=”education__time”> 
+
+ <span class=”education__rounder”>  </span>
+
+ <span class=”education__line”> </span> 
+
+ </div> 
+
+  
+
+<div class=”education__data bd-grid”> 
+
+ <span class=”education__year”> Boa Comunicação</span>
+
+ </div> 
+
+ <div class=”education__data bd-grid”>
+
+ <span class=”education__year”> Criatividade</span> 
+
+ </div>
+
+ <div class=”education__data bd-grid”>
+
+   <span class=”education__year”> Dedicação</span> 
+
+   
+
+ </div> 
+
+ 
+
+  <div class=”education__data bd-grid”>
+
+   <span class=”education__year”> Otimista</span> 
+
+   
+
+ </div>
+
+ 
+
+  <div class=”education__data bd-grid”>
+
+   <span class=”education__year”> Gosto de desafios</span> 
+
+   
+
+ </div>
+
+ </div> 
+
+ </section> 
+
+  
+
+  <section class=”skills section” id= “skills”> 
+
+ <h2 class=”section-title”> Pontos Fracos </h2> 
+
+  
+
+ <div class=”skills__contentbd-grid”> 
+
+  <ul class=”skills__data”> 
+
+ <li class=”skills__name”> 
+
+ <span class=”skills__circle”> </span> Nervosismo
+
+ </li> 
+
+ <li class=”skills__name”> 
+
+ <span class=”skills__circle”> Insegurança </span>  </li>
+
+ <li class=”skills__name”> 
+
+  <span class=”skills__circle”> </span> </li> 
+
+ <li class =”skills__name”> 
+
+ <span class=”skills__circle”> </span>  </li> 
+
+ </ul> 
+
+</li>
+
+</div> 
+
+ 
+
+  
+
+<section class=”seção de perfil” id= “perfil”>
+
+   
+
+<2 class=”title”>Opinião-seção-h2> 
+
+  
+
+<p class="profile__description"> 
+
+, é necessário atender a opinião do próximo, pois todos os expressadores de forma livre e harmônica. Se, depois, eles ainda não irão decidir do próximo forma, e depois disso, eles ainda não concordarão com a decisão do próximo. <div class=""></div> <div class=""></div> 
+
+</p> 
+
+</section>
+
+  
+
+<section class=”seção de perfil” id= “perfil”>
+
+   
+
+<h2 class="section-title">Perguntas</h2> 
+
+  
+
+<p class="profile__description"> 
+
+Sim. Estou bastante curiosa em saber o início da formação da empresa. Como uma ideia de uma empresa apenas para web surgiu? E como se adeptaram ao tratamento de novas atualizações?” <div class=""></div> <div class=""></div> 
+
+</p> 
+
+</section>
+
+  
+
+<section class= “seção de certificado” id= “certificados”> 
+
+<h2 class="seção-título
+
+“>Certificados</h2> 
+
+  <div class="certificate__container bd-grid"> 
+
+  
+
+  <div class="certificate__content"> 
+
+<h3 class="certificate__title"> PHP básico </h3> 
+
+<p class=”certificate__description”> Curso em vídeo| Emitido em <div class="”></div> de 2021</p> 
+
+<h3 class="certificate__title"> JavaScript </h3>
+
+<p class=”certificate__description”> Curso em vídeo| Emitido em janeiro <div class="”> </div> de 2022 </p>
+
+  </div>
+
+  </section>
+
+
+
+<a href=”#” class=”scrolltop” id=”scroll-top”> 
+
+<i class='bx bx-chevron-up-circle scrolltop__icon'> </i> </a> 
+
+</body>
+
+</html>
+
