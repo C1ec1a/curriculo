@@ -52,23 +52,8 @@
  --small-font-size: .75rem; 
  --smaller-font-size: .688rem; 
  } 
-  
- .generate-pdf{ 
- display: inline-block; 
- position: absolute; 
- top: 2.2rem; 
- left: 0; 
- font-size: 1.2rem; 
- color: var(--text-color); 
- cursor:pointer; 
- }
-  
- .generate-pdf:hover{ 
- color: var(--title-color); 
- }
 
- .change-theme, 
- .generate-pdf{ 
+ .change-theme{ 
  display: none; 
  }
   
